@@ -20,7 +20,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dc2985b-7fdb-4337-b9d5-a6c89cd72203" name="Changes" comment="" />
+    <list default="true" id="3dc2985b-7fdb-4337-b9d5-a6c89cd72203" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Galaga/Galaga.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Galaga/Galaga.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Galaga/GameOver.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Galaga/GameOver.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Galaga/GameOver.h" beforeDir="false" afterPath="$PROJECT_DIR$/Galaga/GameOver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio.h" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateEnumPortfolio.h" beforeDir="false" afterPath="$PROJECT_DIR$/StateEnumPortfolio.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +39,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,7 +63,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/ASUS/CLionProjects/CS003A/Portfolio-Final Proj",
+    "last_opened_file_path": "C:/Users/ASUS/CLionProjects/CS003A/Galaga",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,7 +108,7 @@
       <workItem from="1702333625189" duration="907000" />
       <workItem from="1702339523353" duration="12000" />
       <workItem from="1702339546336" duration="3620000" />
-      <workItem from="1702413649031" duration="314000" />
+      <workItem from="1702413649031" duration="3582000" />
     </task>
     <servers />
   </component>

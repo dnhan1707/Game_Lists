@@ -67,6 +67,7 @@ void Galaga::run()
         display.update();
     }
 
+
 }
 
 void Galaga::eventHandler(sf::RenderWindow &window, sf::Event event)

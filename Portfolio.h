@@ -14,6 +14,8 @@
 #include "MouseEventsPortfolio.h"
 #include "DisplayProjectName.h"
 #include "StateEnumPortfolio.h"
+#include "PositionPortfolio.h"
+
 class Portfolio
 {
 private:

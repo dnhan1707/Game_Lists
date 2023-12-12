@@ -10,6 +10,7 @@
 #include "ButtonGalaga.h"
 #include "BackgroundGalaga.h"
 #include "StatesGalaga.h"
+#include "MouseEventsGalaga.h"
 
 class GameOver : public sf::Drawable, public StatesGalaga
 {
@@ -19,13 +20,14 @@ private:
     sf::Text longestSurvivalText;
     sf::Text restartText;
     ButtonGalaga button;
+
 public:
     GameOver();
     GameOver(sf::Vector2f screenSize, sf::Font& font);
     virtual void draw(sf::RenderTarget& window, sf::RenderStates states) const;
     void setLongestSurvivalTime(const std::string& time);
     sf::RectangleShape& getGameOverBackground();
-    void update();
+    void eventHandler(sf::RenderWindow& window);
     void setPosition(sf::RectangleShape& background);
 };
 

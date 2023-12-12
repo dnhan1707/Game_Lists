@@ -42,6 +42,7 @@ void Portfolio::run()
         }
         (*iter) -> run();
         (*iter) -> update();
+//        PositionPortfolio::centerWithWindow(window, (*iter));
         update();
         projectName.setText((*iter) -> getName());
         window.clear();

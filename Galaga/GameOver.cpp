@@ -55,10 +55,11 @@ sf::RectangleShape &GameOver::getGameOverBackground() {
     return background;
 }
 
-void GameOver::update() {
-    if (getState(LOSE))
+void GameOver::eventHandler(sf::RenderWindow& window)
+{
+    if (MouseEventsGalaga::isCLicked(button.getButton(), window))
     {
-
+        enableState(RESTART);
     }
 }
 
