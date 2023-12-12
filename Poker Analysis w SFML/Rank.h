@@ -1,0 +1,13 @@
+//
+// Created by ASUS on 10/17/2023.
+//
+
+#ifndef FRIEND_FUNCTION_RANK_H
+#define FRIEND_FUNCTION_RANK_H
+
+#endif //FRIEND_FUNCTION_RANK_H
+
+
+enum Rank {
+    ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE , TEN, JACK, QUEEN, KING
+};
