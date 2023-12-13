@@ -154,3 +154,5 @@
 8469	10721	7241277742295924	CMakeFiles/sfml_project.dir/Calculator/DisplayCalculator.cpp.obj	76afb976ab7d6098
 8454	11327	7241277748326743	CMakeFiles/sfml_project.dir/Calculator/RPN.cpp.obj	521719d7a8b80377
 11328	14970	7241277784561117	sfml_project.exe	9df5f2233cf0e3d8
+7	899	7241476899802201	CMakeFiles/sfml_project.dir/Calculator/RPN.cpp.obj	521719d7a8b80377
+899	2460	7241476915335921	sfml_project.exe	9df5f2233cf0e3d8
