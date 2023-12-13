@@ -28,19 +28,19 @@ std::string RPN::toRPN(const std::string& infix)
 {
     std::stack<char> operators_stack;
     std::string output;
-    std::map<char, int> precedence;
+    std::map<char, int> rank;
 
-    precedence['+'] = precedence['-'] = 1;
-    precedence['*'] = precedence['/'] = 2;
+    rank['+'] = rank['-'] = 1;
+    rank['*'] = rank['/'] = 2;
 
     for (char character : infix) {
-        if (std::isdigit(character) || character == '.')
+        if (std::isdigit(character))
         {
             output += character;
         }
         else
         {
-            while (!operators_stack.empty() && precedence[operators_stack.top()] >= precedence[character])
+            while (!operators_stack.empty() && rank[operators_stack.top()] >= rank[character])
             {
                 output += operators_stack.top();
                 operators_stack.pop();

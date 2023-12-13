@@ -22,13 +22,31 @@
   <component name="ChangeListManager">
     <list default="true" id="3dc2985b-7fdb-4337-b9d5-a6c89cd72203" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Galaga/Galaga.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Galaga/Galaga.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Galaga/GameOver.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Galaga/GameOver.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Galaga/GameOver.h" beforeDir="false" afterPath="$PROJECT_DIR$/Galaga/GameOver.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio.h" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StateEnumPortfolio.h" beforeDir="false" afterPath="$PROJECT_DIR$/StateEnumPortfolio.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/RPN.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/RPN.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/ButtonPortfolio.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/ButtonPortfolio.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/BackgroundCalculator.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/BackgroundCalculator.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/ButtonCalculator.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/ButtonCalculator.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/Calculator.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/Calculator.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/DisplayCalculator.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/DisplayCalculator.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/StatesCalculator.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/StatesCalculator.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/DisplayProjectName.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/DisplayProjectName.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Alien.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Alien.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/AlienShip.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/AlienShip.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/ButtonGalaga.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/ButtonGalaga.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/DisplayGalaga.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/DisplayGalaga.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/FighterJet.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/FighterJet.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Galaga.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Galaga.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/GameOver.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/GameOver.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Gun.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Gun.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Rocket.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/Rocket.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/StatesGalaga.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Galaga/StatesGalaga.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Portfolio.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Portfolio.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/StatesPortfolio.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/StatesPortfolio.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/sfml_project.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/sfml_project.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +81,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/ASUS/CLionProjects/CS003A/Galaga",
+    "last_opened_file_path": "C:/Users/ASUS/CLionProjects/CS003A/Portfolio-Final Proj",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,6 +127,7 @@
       <workItem from="1702339523353" duration="12000" />
       <workItem from="1702339546336" duration="3620000" />
       <workItem from="1702413649031" duration="3582000" />
+      <workItem from="1702424055972" duration="3134000" />
     </task>
     <servers />
   </component>
