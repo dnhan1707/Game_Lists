@@ -22,11 +22,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3dc2985b-7fdb-4337-b9d5-a6c89cd72203" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/RPN.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sfml_project.dir/Calculator/RPN.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/sfml_project.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/sfml_project.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +107,8 @@
       <workItem from="1702433834378" duration="15000" />
       <workItem from="1702443367978" duration="95000" />
       <workItem from="1702444475224" duration="549000" />
+      <workItem from="1702672742407" duration="32000" />
+      <workItem from="1702857702914" duration="2476000" />
     </task>
     <servers />
   </component>
